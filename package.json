@@ -1,0 +1,24 @@
+{
+  "name": "My-chatty",
+  "version": "1.0.0",
+  "description": "an api",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.9.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/87duran/my-chatty.git"
+  },
+  "author": "chrisDuran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/87duran/my-chatty/issues"
+  },
+  "homepage": "https://github.com/87duran/my-chatty"
+}
